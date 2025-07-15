@@ -66,8 +66,8 @@ The dataset includes the following columns:
 
 <h2 style="color:red">📊 Report Pages & Screenshots</h2>
 
-You can view the full report as a PDF in this repository: 
-👉 [📄 View PDF Report](./Solar_vs_Generator_Report.pdf)
+You can view the full report as a in this repository: 
+👉 [📄 View Report](./Solar_vs_Generator_Report.pdf)
 
 ### Page 1: Dashboard Overview 
 KPIs for both energy sources and user types
@@ -90,8 +90,6 @@ Conclusion, insights, and recommendation to stakeholders
 ---
 
 <h2 style="color:red">📥 Downloads</h2>
-
-- [📄 PDF Report](./Solar_vs_Generator_Report.pdf)
 - [📁 Power BI File (.pbix)](./solar_vs_generator.pbix) 
 
 ---
